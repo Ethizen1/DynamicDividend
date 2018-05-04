@@ -4,7 +4,7 @@ Anybody is welcome to commit to this Github repository if they have a smart cont
 
 However, only if we go beyond the creation of an open-source code repository of smart contracts, meritorious as this may be, and achieve sovereign status will Ethscape prove its value in the real world.<br><br>
  
-**Our ultimate product therefore has to be a country, in the tradition of other nation building projects but without the fatal flaw of terrestrial territory.**
+Our ultimate product therefore has to be a country, in the tradition of other nation building projects but without the fatal flaw of terrestrial territory.
 
 That is why we work on Ethereum as the only “sovereign-grade”, censorship-resistant public chain fit for our purpose. 
 
