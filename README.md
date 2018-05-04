@@ -2,9 +2,9 @@
 
 Anybody is welcome to commit to this Github repository if they have a smart contract idea that helps us build the Operating System for Ethscape's decentralised polity.
 
-However, only if we go beyond the creation of an open-source code repository of smart contracts, meritorious as this may be, and achieve sovereign status will Ethscape prove its value in the real world.<br><br>
+However, only if we go beyond the creation of an open-source code repository of smart contracts, meritorious as this may be, and achieve sovereign status will Ethscape prove its value in the real world.<br>
 
-Our ultimate product therefore has to be a country, in the tradition of other nation building projects but without the fatal flaw of terrestrial territory.
+<strong>Our ultimate product therefore has to be a country, in the tradition of other nation building projects but without the fatal flaw of terrestrial territory.</strong>
 
 That is why we work on Ethereum as the only “sovereign-grade”, censorship-resistant public chain fit for our purpose. 
 
